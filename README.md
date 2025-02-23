@@ -33,12 +33,12 @@
 > A commerce platform for trading limited edition goods of streamers easily.
 
 **Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) *(In progress)*
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)](https://jakarta.ee/specifications/persistence/)
+[![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/) *(In progress)*
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
@@ -49,11 +49,11 @@
 > A service that recommends trending date courses based on user preferences.  
 
 **Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)](https://jakarta.ee/specifications/persistence/)
+[![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
