@@ -84,16 +84,19 @@
 ## 📫 Contact
 > Feel free to reach out to me! 언제든지 연락 주세요!
 - **name**: Yujin Kang | 강유진
-- **Email**: [kyujin995@gmail.com](mailto:kyujin995@gmail.com)
+
+- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kyujin995@gmail.com)
 
 ---
 
 ## 🌐 Channels
 > Stay connected and follow for updates! 새로운 소식이 궁금하다면 팔로우 해주세요!
 
-- **Blog**: [Velog](https://velog.io/@yjkang)
-- **GitHub**: [YJ-Kkang](https://github.com/YJ-Kkang)
-- **YouTube**: [Zin's Channel](https://www.youtube.com/channel/UCLpKldhW2m6PonpPDiPFMtw)
+- **Blog**: [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@yjkang)
+
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YJ-Kkang)
+
+- **YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLpKldhW2m6PonpPDiPFMtw)
 
 ---
 
