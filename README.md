@@ -40,9 +40,6 @@
 ### 🌟 전체 통계
 ![YJ-Kkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-Kkang&show_icons=true&theme=custom&title_color=00796B&text_color=20A177&icon_color=F39C12&bg_color=FFFFFF)
 
-### 📚 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-Kkang&layout=compact&title_color=00796B&text_color=20A177&bg_color=FFFFFF)
-
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YJ-Kkang&theme=github-compact&bg_color=FFFFFF&color=00796B&line=20A177&point=F39C12&area=true)
 
