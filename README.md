@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Zin's%20GitHub&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,3,6&height=200&section=header&text=Welcome%20to%20Zin's%20GitHub&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
 ## 🚀 Projects
 
