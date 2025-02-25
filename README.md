@@ -1,3 +1,4 @@
+
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,3,6&height=200&section=header&text=Welcome%20to%20Zin's%20GitHub&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
@@ -32,13 +33,25 @@
 
 > A commerce platform for trading limited edition goods of streamers easily.
 
+### ✅ **EXCLUZ Scheduler - 예약 작업 처리 스케줄러**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TrainH&repo=excluz-scheduler&title_color=00796B&text_color=20A177&icon_color=F39C12&bg_color=FFFFFF)](https://github.com/TrainH/excluz-scheduler)
+> EXCLUZ 서비스에서 예약된 작업을 자동으로 처리하는 스케줄러 서비스입니다.  
+>이 프로젝트는 EXCLUZ의 예약된 작업을 처리하기 위해 설계되었습니다.  
+> 데이터 정합성을 유지하고 백엔드 효율성을 높이는 데 중점을 두고 작업할 예정입니다.
+
+> A dedicated scheduler service for automating tasks on the EXCLUZ platform, designed to maintain data consistency and enhance backend efficiency.
+
+
 **Tech Stack:**  
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)](https://jakarta.ee/specifications/persistence/)
 [![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/) *(In progress)*
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+`In progress`: [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Spring Scheduling](https://img.shields.io/badge/Spring%20Scheduling-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/guides/gs/scheduling-tasks/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
 ---
 
@@ -75,8 +88,11 @@
 
 - 🌱 **배우고 있는 기술:**
   - Java, Spring Boot, MySQL
+
 - 🔭 **진행 중인 프로젝트:**
   - EXCLUZ - 스트리머 팬들을 위한 굿즈 커머스 서비스
+  - EXCLUZ Scheduler - EXCLUZ 예약 작업 처리 스케줄러
+
 - 💡 **관심 분야:**
   - **대용량 데이터 처리** | **백엔드 API 개발**
 
