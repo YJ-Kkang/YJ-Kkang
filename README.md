@@ -48,8 +48,7 @@
 [![JPA](https://img.shields.io/badge/JPA-6D3F5B?style=flat)](https://jakarta.ee/specifications/persistence/)
 [![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
-`In progress`: [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Spring Scheduling](https://img.shields.io/badge/Spring%20Scheduling-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/guides/gs/scheduling-tasks/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
